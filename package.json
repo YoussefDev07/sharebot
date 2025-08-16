@@ -1,0 +1,18 @@
+{
+  "name": "sharebot",
+  "version": "1.0.0",
+  "description": "Discord bot for share discord servers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["bot", "discord bot", "share", "share servers", "share discord servers"],
+  "author": "Discord: _youssefdev",
+  "dependencies": {
+    "@types/node": "^22.13.11",
+    "discord.js": "^12.2.0",
+    "ms": "^2.1.2",
+    "pretty-ms": "^9.2.0",
+    "x73db": "^0.3.0"
+  }
+}
