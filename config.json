@@ -1,0 +1,23 @@
+{
+  "owners": [0],
+  "token": "",
+  "prefix": ".",
+  "color": "#000000",
+  "link": {
+    "invite": "https://discord.com/oauth2/authorize?permissions=8&integration_type=0&scope=bot",
+    "support": "https://discord.gg/"
+  },
+  "emoji": {
+    "success": "✅",
+    "error": "❌",
+    "timer": "⏰",
+    "search": "🔍",
+    "loading": "🔃",
+    "ban": "⛔",
+    "ping": "⚡",
+    "premium": "💎",
+    "servername": "🧭",
+    "description": "📄",
+    "invite": "🔗"
+  }
+}
